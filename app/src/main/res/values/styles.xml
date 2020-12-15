@@ -1,0 +1,70 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#5d5d5d</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">#5d5d5d</item>
+        <item name="android:windowBackground">@color/colorWindowBackground</item>
+
+    </style>
+
+<!--    &lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+
+<!--        <item name="android:actionBarStyle">@style/AppTheme</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Application theme. &ndash;&gt;-->
+<!--    <style name="AppTheme"  parent="Theme.AppCompat.Light.NoActionBar">-->
+<!--        <item name="windowActionBar">true</item>-->
+
+<!--        <item name="android:windowActionBarOverlay">true</item>-->
+<!--&lt;!&ndash;        &lt;!&ndash; colorPrimary is used for the default action bar background &ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="android:background">#ffffff</item>&ndash;&gt;-->
+
+<!--&lt;!&ndash;        <item name="android:textColorPrimary">#ffffff</item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="android:textColorSecondary">#ffffff</item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="actionMenuTextColor">#ffffff</item>&ndash;&gt;-->
+<!--                <item name="colorPrimary">#ffffff</item>-->
+<!--                <item name="colorPrimaryDark">#ffffff</item>-->
+<!--                <item name="colorAccent">@color/colorAccent</item>-->
+<!--                <item name="colorControlNormal">#ffffff</item>-->
+<!--                <item name="android:windowBackground">#ffffff</item>-->
+<!--    </style>-->
+
+    <!--    WaterMainActivity-->
+    <style name="Theme.MyDiaglog" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#ffffff</item>
+
+    </style>
+
+    <style name="TabTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FFCBCB</item>                                <!-- 배경 -->
+        <item name="android:textColorPrimary">#000000</item>       <!-- 탭바 선택된 텍스트 -->
+        <item name="android:textColorSecondary">#ffffff</item>     <!-- 탭바 텍스트 -->
+    </style>
+
+    <style name="NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FFCBCB</item>                                <!-- 배경 -->
+    </style>
+
+    <style name="CalendarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#165a1e</item>
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="colorAccent">#165a1e</item>
+    </style>
+
+
+</resources>
+
+
+
